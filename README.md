@@ -64,10 +64,10 @@ Coffee-Sales-Analysis/
 │
 └── README.md
 ```
-Example : ![image alt].(https://github.com/Goyal-Sahiba/Coffee-Shop-Sales/blob/main/Screenshot%202026-10-07%20144900.png?raw=true)
 
 ## 🚀 Skills Demonstrated
 
 **SQL | Power BI | DAX | Data Cleaning | Data Analysis | Data Visualization | Business Intelligence | Dashboard Development**
 
 This project showcases an end-to-end data analytics workflow, from **raw data preparation and SQL analysis to interactive Power BI reporting**.
+Example : ![image alt](https://github.com/Goyal-Sahiba/Coffee-Shop-Sales/blob/main/Screenshot%202026-10-07%20144900.png?raw=true)
