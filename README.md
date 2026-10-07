@@ -64,6 +64,7 @@ Coffee-Sales-Analysis/
 │
 └── README.md
 ```
+Example : ![Dashboard Preview].(https://github.com/Goyal-Sahiba/Coffee-Shop-Sales/blob/main/Screenshot%202026-10-07%20144900.png)
 
 ## 🚀 Skills Demonstrated
 
